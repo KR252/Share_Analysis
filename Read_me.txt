@@ -27,5 +27,5 @@ numpy               #to install: pip install numpy
 matplotlib.pyplot   #to install: pip install matplotlib.pyplot
 statistics          #to install: pip install statistics
 
-Note: Don't take this program as stock market suggestion.
+Note: Don't take this program as stock market suggestion(Predicted result maight be different from actual one).
 
