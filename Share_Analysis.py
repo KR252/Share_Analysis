@@ -14,10 +14,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import statistics as st
 
-file = open("C:/Users/Dell/Downloads/Place_This_File_in_Download_Folder.txt","r")
-print(file.read())
-file.close()
-
 def average_volume(data_frame):
     temp = data_frame
     temp = list(temp)
